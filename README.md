@@ -7,11 +7,11 @@
 也可以直接拼接路径：
 
 ```
-https://cdn.jsdelivr.net/gh/chunxi1/links文件
+https://cdn.jsdelivr.net/gh/chunxi1/links/文件
 ```
 
 例如：
 
 ```
-https://cdn.jsdelivr.net/gh/chunxi1/links/abc.png
+https://cdn.jsdelivr.net/gh/chunxi1/links/imgs/wallpaper/abc.png
 ```
